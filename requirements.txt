@@ -1,0 +1,10 @@
+mediapipe==0.10.14
+opencv-python
+scikit-learn
+pandas
+numpy
+joblib
+flask
+smbus2
+sounddevice
+adafruit-circuitpython-dht
